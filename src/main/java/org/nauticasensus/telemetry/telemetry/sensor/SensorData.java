@@ -1,4 +1,4 @@
-package org.nauticasensus.telemetry.telemetry_service.sensor;
+package org.nauticasensus.telemetry.telemetry.sensor;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

@@ -1,4 +1,4 @@
-package org.nauticasensus.telemetry.telemetry_service;
+package org.nauticasensus.telemetry.telemetry;
 
 import org.springframework.boot.SpringApplication;
 
